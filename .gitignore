@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+README.md
+m_old.py
+decorator_pattern.py
+decorator_attempts.py
+requirements.txt
+log_1.log
+log_2.log
+log_3.log
+log_4.log
+main.log
